@@ -1,0 +1,620 @@
+@media (min-width: 1440px) {
+  .big-heading {
+    font-size: 100px;
+  }
+  .h-detail {
+    font-size: 20px;
+    max-width: 70%;
+  }
+  .btn-discover {
+    font-size: 2.5rem;
+    padding: 1rem 3rem;
+  }
+}
+@media all and (max-width: 1200px) and (min-width: 940px) {
+  .big-heading {
+    width: 90%;
+    font-size: 85px;
+  }
+  .h-detail {
+    font-size: 20px;
+  }
+  .pad {
+    padding: 0 1rem;
+  }
+  .row2 {
+    flex-wrap: nowrap;
+  }
+  .main-exp {
+    padding: 0 3rem;
+  }
+  .exp-h1 {
+    font-size: 45px;
+    width: 100%;
+  }
+  .exp-p {
+    font-size: 37px;
+  }
+  .exp-row {
+    padding: 0rem;
+  }
+  #experience-sec .row {
+    padding: 4rem 0rem;
+  }
+  .lbl {
+    font-size: 18px;
+    margin-left: 0.7;
+  }
+  .center h3 {
+    font-size: 35px;
+    margin-bottom: 3rem;
+  }
+  .method-label {
+    font-size: 18px;
+    min-height: 2rem;
+  }
+  #method-section {
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+  }
+  .check-padding {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  .btn-checkout {
+    font-size: 40px;
+  }
+  #discover-sec img {
+    height: 500px;
+    width: 100%;
+  }
+  /* card sec */
+  .card-h3 {
+    font-size: 25px;
+  }
+  .card-btn {
+    font-size: 18px;
+    margin-top: 0;
+  }
+  .card {
+    width: 24%;
+    margin: 7px;
+  }
+  .card-adress {
+    font-size: 18px;
+  }
+  .card-price {
+    font-size: 18px;
+  }
+  .card-add {
+    text-align: center;
+    margin-top: 8px;
+  }
+}
+@media all and (max-width: 940px) and (min-width: 870px) {
+  .big-heading {
+    width: 80%;
+    font-size: 70px;
+  }
+  .h-detail {
+    font-size: 16px;
+  }
+  .pad {
+    padding: 0 1rem;
+  }
+  .row2 {
+    flex-wrap: nowrap;
+  }
+  .main-exp {
+    padding: 0 3rem;
+  }
+  #experience-sec {
+    height: 110vh;
+  }
+  .exp-h1 {
+    font-size: 40px;
+    width: 100%;
+  }
+  .exp-p {
+    font-size: 32px;
+  }
+  .exp-row {
+    padding: 0rem;
+  }
+  #experience-sec .row {
+    padding: 4rem 0rem;
+  }
+  .lbl {
+    font-size: 18px;
+    margin-left: 0.7;
+  }
+  .method-h1 {
+    font-size: 57px;
+  }
+  .method-p {
+    font-size: 30px;
+  }
+  .center h3 {
+    font-size: 30px;
+    margin-bottom: 2rem;
+  }
+  .method-label {
+    font-size: 21px;
+    min-height: 3rem;
+  }
+  #method-section {
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+  .check-padding {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  .btn-checkout {
+    font-size: 40px;
+  }
+  #discover-sec img {
+    height: 500px;
+    width: 100%;
+  }
+  /* card sec */
+  .card {
+    width: 24%;
+  }
+  .card-h3 {
+    font-size: 20px;
+  }
+  .card-btn {
+    font-size: 15px;
+    margin-top: 0;
+  }
+  .card-adress {
+    font-size: 15px;
+  }
+  .card-price {
+    font-size: 15px;
+  }
+  .card-add {
+    text-align: center;
+    margin-top: 8px;
+  }
+  .card-description {
+    margin-bottom: 0;
+  }
+  .card-detail {
+    margin-top: 0.5rem;
+  }
+}
+@media all and (max-width: 870px) and (min-width: 769px) {
+  .big-heading {
+    width: 80%;
+    font-size: 55px;
+  }
+  .h-detail {
+    font-size: 14px;
+    width: 57%;
+  }
+  .btn-discover {
+    font-size: 18px;
+  }
+  #header {
+    height: 110vh;
+  }
+  .icon-down {
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    left: 49%;
+    top: 100%;
+    text-decoration: none;
+  }
+  .pad {
+    padding: 0 1rem;
+  }
+  .row2 {
+    flex-wrap: nowrap;
+  }
+  .main-exp {
+    padding: 0 3rem;
+  }
+  #experience-sec {
+    height: 110vh;
+  }
+  .exp-h1 {
+    font-size: 40px;
+    width: 100%;
+  }
+  .exp-p {
+    font-size: 32px;
+  }
+  .exp-row {
+    padding: 0rem;
+  }
+  #experience-sec .row {
+    padding: 4rem 0rem;
+  }
+  .lbl {
+    font-size: 18px;
+    margin-left: 0.7;
+  }
+  .method-h1 {
+    font-size: 47px;
+  }
+  .method-p {
+    font-size: 16px;
+  }
+  .center h3 {
+    font-size: 30px;
+    margin-bottom: 2rem;
+  }
+  .method-label {
+    font-size: 21px;
+    min-height: 3rem;
+  }
+  #method-section {
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+  #experience-sec button {
+    font-size: 16px;
+    width: 200px;
+    padding: 0.3 1rem;
+  }
+  .echeck {
+    height: 30px;
+    width: 30px;
+  }
+  .lbl {
+    font-size: 16px;
+  }
+  .check-padding {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  .btn-checkout {
+    font-size: 30px;
+    margin: 0;
+    padding: 0 4rem;
+  }
+  #discover-sec img {
+    height: 500px;
+    width: 100%;
+  }
+  /* card sec */
+  .card {
+    padding: 20px;
+    width: 26%;
+  }
+  .card-h3 {
+    font-size: 22px;
+  }
+  .card-btn {
+    font-size: 15px;
+    margin-top: 0;
+  }
+  .card-adress {
+    font-size: 15px;
+  }
+  .card-price {
+    font-size: 15px;
+  }
+  .card-add {
+    text-align: center;
+    margin-top: 8px;
+  }
+  .card-description {
+    margin-bottom: 0;
+  }
+  .card-detail {
+    margin-top: 0.5rem;
+  }
+}
+/* @media all and (max-width: 960px) and (min-width: 769px) {
+  .big-heading {
+    width: 90%;
+  }
+  .pad {
+    padding: 0 4rem;
+  }
+  .card {
+    width: 38%;
+  }
+  .row2 {
+    flex-wrap: nowrap;
+  }
+} */
+@media (max-width: 768px) {
+  /* .nav {
+    display: none;
+  } */
+  .navbar1 .nav {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 3rem;
+    left: 0;
+    background-color: #3a3531;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .navbar1 .nav > * {
+    padding: 1rem;
+  }
+  footer .nav {
+    flex-direction: row;
+  }
+  .navbar-btn {
+    display: block;
+  }
+  #discover-sec img {
+    display: none;
+  }
+}
+
+@media all and (max-width: 768px) and (min-width: 426px) {
+  .big-heading {
+    font-size: 3rem;
+    width: 80%;
+  }
+  .h-detail {
+    max-width: 65%;
+    font-size: 1rem;
+  }
+  .nav {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    right: 0;
+  }
+  .nav button {
+    width: 5rem;
+    border: 0;
+  }
+  .login-btn {
+    border: 0;
+    padding: 10px 0;
+    border-radius: 0;
+  }
+  .method-h1 {
+    font-size: 40px;
+  }
+  .method-p {
+    font-size: 20px;
+  }
+  .method-label {
+    font-size: 18px;
+  }
+  .chckbox {
+    height: 30px;
+    width: 30px;
+  }
+  .icon-down2 {
+    margin-bottom: 2rem !important;
+  }
+  .checkbox-column {
+    width: 45%;
+  }
+  .card {
+    width: 38%;
+  }
+  .btn-checkout {
+    font-size: 2rem;
+    padding: 0.1rem 3rem;
+  }
+  .pad {
+    padding: 0 2rem;
+  }
+  .col-1 {
+    box-sizing: border-box;
+
+    width: 50%;
+    padding-left: 10%;
+  }
+  #experience-sec button {
+    margin: 1rem 2rem 2rem 2rem;
+    width: 230px;
+  }
+  #experience-sec h1 {
+    font-size: 2rem;
+    line-height: 40px;
+  }
+  #experience-sec {
+    padding: 1rem 0;
+    min-height: 150vh;
+  }
+  .lbl {
+    font-size: 20px;
+  }
+  #experience-sec .row {
+    padding: 2rem 1rem;
+
+    justify-content: flex-start;
+  }
+  .main-exp {
+    padding: 1rem;
+  }
+  .echeck {
+    height: 30px;
+    width: 30px;
+  }
+  .line-div {
+    margin-right: 0 !important;
+  }
+
+  .center {
+    width: 80%;
+  }
+  /* dicover */
+  .center h3 {
+    font-size: 30px;
+  }
+}
+@media (max-width: 426px) {
+  body {
+    width: 100%;
+  }
+  #navbar {
+    padding: 0;
+  }
+  .icon-down a {
+    top: 100%;
+    font-size: 15px;
+  }
+  #header {
+    height: 100vh;
+  }
+  .h-detail {
+    font-size: 15px;
+    max-width: 75%;
+  }
+  .btn-discover {
+    font-size: 1rem;
+    padding: 0.3rem 1rem;
+  }
+
+  .hh {
+    font-size: 15px;
+  }
+  .pp {
+    font-size: 10px;
+    display: inline-block !important;
+    padding: 0;
+    width: 60%;
+  }
+  .line-div {
+    margin-right: 0 !important;
+    justify-content: space-around;
+    /* width: 100%; */
+  }
+  .center-line {
+    width: 7rem;
+    left: -3rem;
+  }
+  .center-line > * {
+    left: 1rem;
+  }
+  .rgt-line {
+    width: 9rem;
+  }
+  .lft-line > * {
+    width: 3rem;
+    left: -10px;
+  }
+  .rgt-line > * {
+    width: 5rem;
+  }
+  .btn-result {
+    font-size: 20px;
+  }
+  .center {
+    width: 100%;
+  }
+  /* method */
+  #method-section {
+    margin: 4rem 1rem;
+  }
+  .checkbox-column {
+    width: 50%;
+  }
+  .method-h1 {
+    font-size: 30px;
+    margin-bottom: 0;
+    padding: 0;
+  }
+  .method-p {
+    margin-top: 0;
+    font-size: 16px;
+  }
+  .method-label {
+    font-size: 15px;
+  }
+  .chckbox {
+    height: 30px;
+    width: 30px;
+    line-height: 15px;
+    padding-bottom: 0;
+  }
+  /* #experience-sec{
+  max-width: 100%;
+} */
+  #experience-sec button {
+    width: 150px;
+    font-size: 1rem;
+    padding: 10px 20px;
+  }
+  #experience-sec .row {
+    padding: 0;
+  }
+  .main-exp {
+    width: 100%;
+  }
+  .col-1 {
+    width: 45%;
+  }
+  .lbl {
+    font-size: 13px;
+    margin-left: 0.3rem;
+  }
+  .echeck {
+    height: 20px;
+    width: 20px;
+  }
+  .big-heading {
+    font-size: 2rem;
+  }
+  #header {
+    max-width: 100%;
+  }
+  .main-exp {
+    max-width: 75%;
+  }
+  .card {
+    width: 100%;
+  }
+  .card-h3 {
+    font-size: 25px;
+  }
+  .card-adress {
+    font-size: 18px;
+  }
+  .card-price {
+    font-size: 18px;
+  }
+  .card-btn {
+    font-size: 16px;
+  }
+  .card-description {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  .row {
+    padding: 1rem;
+  }
+  .btn-checkout {
+    font-size: 1rem;
+    padding: 0 3rem;
+  }
+  #discover-sec {
+    padding: 0rem;
+  }
+  .center h3 {
+    font-size: 1.2rem;
+  }
+  .main-exp {
+    padding: 0;
+  }
+  .exp-p {
+    font-size: 12px;
+  }
+  .icon-down2 {
+    font-size: 10px;
+  }
+  #experience-sec {
+    height: 100%;
+    padding-bottom: 1rem;
+  }
+  .exp-h1 {
+    width: 100%;
+    font-size: 1.1rem;
+  }
+}
